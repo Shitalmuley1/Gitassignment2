@@ -1,0 +1,1 @@
+This is stash exmple from feature1 branch
